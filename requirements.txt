@@ -3,3 +3,4 @@ langchain-community
 langchain-chroma
 pypdf
 sentence-transformers
+"unstructured[pdf]"
