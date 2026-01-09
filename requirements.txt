@@ -4,3 +4,4 @@ langchain-chroma
 pypdf
 sentence-transformers
 unstructured[pdf]
+langchain_google_genai
