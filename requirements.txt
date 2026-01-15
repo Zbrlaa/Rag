@@ -3,3 +3,4 @@ langchain-community
 langchain-chroma
 langchain-google-genai
 sentence-transformers
+unstructured[pdf]
