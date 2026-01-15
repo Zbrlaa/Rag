@@ -1,7 +1,5 @@
-langchain
+langchain-core
 langchain-community
 langchain-chroma
-pypdf
+langchain-google-genai
 sentence-transformers
-unstructured[pdf]
-langchain_google_genai
